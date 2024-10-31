@@ -1,0 +1,101 @@
+
+.header{
+    background-color: rgb(36, 36, 36);
+    height: 160px;
+}
+
+.header h1{
+     background-color: lavenderblush;
+     color: brown;
+ padding: 15PX 0PX;
+     text-align: center;
+}
+
+.header ul li{
+    color: white;
+    text-align: center;
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+}
+
+.menu{
+    color: brown;
+}
+
+.main{
+    background-color: lavenderblush;
+    height: 900px;
+    width: 100%;
+}
+
+#main-menu img{
+    height: 900px;
+    width: 900px;
+    display: block;
+    margin: auto;
+}
+
+#main-menu h4, p{
+    text-align: center;
+}
+
+#main-menu-1{
+    background-color: lavenderblush;
+    height: 500px;
+    width: 100%;
+}
+
+#main-menu-1 img{
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+#main-menu-1 h4, p{
+    text-align: center;
+}
+
+.dishes{
+    background-color: rgb(235, 235, 235);
+    color: brown;
+    padding: 3.1px;
+}
+
+#main-menu-2{
+    background-color: lavenderblush;
+    height: 100%;
+    width: 100%;
+}
+
+#main-menu-2 img{
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+#main-menu-2 h4, p{
+    text-align: center;
+}
+
+
+contact{
+    background-color: lavenderblush;
+
+}
+
+#contact h1{
+    color: brown;
+}
+
+.button{
+    background-color: brown;
+    color: white;
+    padding: 9px 10px;
+}
+
+footer{
+    margin-top: 15px;
+}
